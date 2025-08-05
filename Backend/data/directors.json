@@ -1,0 +1,26 @@
+[
+  {
+    "id": 101,
+    "name": "Christopher Nolan",
+    "birthYear": 1970,
+    "nationality": "British-American",
+    "bio": "Known for non-linear storytelling and visually striking films. Directed Inception, Interstellar, and The Dark Knight trilogy.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Christopher_Nolan_Cannes_2018.jpg"
+  },
+  {
+    "id": 102,
+    "name": "Quentin Tarantino",
+    "birthYear": 1963,
+    "nationality": "American",
+    "bio": "Famous for stylized violence, witty dialogue, and nonlinear plots. Directed Pulp Fiction, Kill Bill, and Django Unchained.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Quentin_Tarantino_by_Gage_Skidmore.jpg"
+  },
+  {
+    "id": 103,
+    "name": "Wes Anderson",
+    "birthYear": 1969,
+    "nationality": "American",
+    "bio": "Recognized for his unique visual style, symmetrical framing, and quirky storytelling. Directed The Grand Budapest Hotel and Moonrise Kingdom.",
+    "photo": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Wes_Anderson_Cannes_2012.jpg"
+  }
+]
