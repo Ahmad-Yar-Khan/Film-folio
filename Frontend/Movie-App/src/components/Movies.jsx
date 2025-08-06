@@ -9,7 +9,6 @@ function Movies() {
     fetch("http://localhost:3000/api/movies")
       .then((res) => res.json())
       .then((data) => setMovie(data))
-      .then(console.log("Fetching data"))
       .catch((err) => console.log("Error in fetching movies", err));
   }, []);
 

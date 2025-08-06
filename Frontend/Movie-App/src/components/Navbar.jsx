@@ -5,7 +5,7 @@ import "../App.css";
 function Navbar() {
   return (
     <nav className="navbar">
-      <div className="logo">🎬 MovieApp</div>
+      <div className="logo">🎬 FilmFolio</div>
       <ul className="nav-links">
         <li>
           <Link to="/movies">Movies</Link>

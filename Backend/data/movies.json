@@ -4,7 +4,7 @@
     "title": "Inception",
     "year": 2010,
     "directorId": 101,
-    "genre": "Sci-Fi",
+    "genreId": 1,
     "plot": "A thief who steals corporate secrets through dream-sharing technology is given a chance to erase his criminal history.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjAxMzY3NjcxNF5BMl5BanBnXkFtZTcwNTI5OTM0Mw@@._V1_.jpg",
     "rating": "8.8"
@@ -14,7 +14,7 @@
     "title": "Interstellar",
     "year": 2014,
     "directorId": 101,
-    "genre": "Sci-Fi",
+    "genreId": 1,
     "plot": "A team of explorers travels through a wormhole in space in an attempt to ensure humanity's survival.",
     "poster": "https://m.media-amazon.com/images/M/MV5BYzdjMDAxZGItMjI2My00ODA1LTlkNzItOWFjMDU5ZDJlYWY3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "rating": "8.6"
@@ -24,7 +24,7 @@
     "title": "The Dark Knight",
     "year": 2008,
     "directorId": 101,
-    "genre": "Action",
+    "genreId": 2,
     "plot": "Batman faces the Joker, a criminal mastermind who plunges Gotham into chaos.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_.jpg",
     "rating": "9.0"
@@ -34,7 +34,7 @@
     "title": "Pulp Fiction",
     "year": 1994,
     "directorId": 102,
-    "genre": "Crime",
+    "genreId": 3,
     "plot": "The lives of two mob hitmen, a boxer, and others intertwine in tales of violence and redemption.",
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAWFpTOcLanZgEwYgp0Ez-wm7wET72A9Vrlw&s",
     "rating": "8.9"
@@ -44,7 +44,7 @@
     "title": "Kill Bill: Vol. 1",
     "year": 2003,
     "directorId": 102,
-    "genre": "Action",
+    "genreId": 2,
     "plot": "A former assassin seeks revenge on her ex-colleagues who betrayed her.",
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrsb6UX5bW8ZVG4c06UGpu7uHzSGz1pZJpyw&s",
     "rating": "8.1"
@@ -54,7 +54,7 @@
     "title": "The Grand Budapest Hotel",
     "year": 2014,
     "directorId": 103,
-    "genre": "Comedy",
+    "genreId": 4,
     "plot": "A concierge and a lobby boy get caught up in the theft of a priceless painting and a murder mystery.",
     "poster": "https://image.tmdb.org/t/p/original/3v9tCFQejGjRgzAojGbVAsdSzhF.jpg",
     "rating": "8.1"
@@ -64,7 +64,7 @@
     "title": "Django Unchained",
     "year": 2012,
     "directorId": 102,
-    "genre": "Western",
+    "genreId": 5,
     "plot": "With the help of a German bounty hunter, a freed slave sets out to rescue his wife.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMjIyNTQ5NjQ1OV5BMl5BanBnXkFtZTcwODg1MDU4OA@@._V1_.jpg",
     "rating": "8.4"
@@ -74,7 +74,7 @@
     "title": "Tenet",
     "year": 2020,
     "directorId": 101,
-    "genre": "Sci-Fi",
+    "genreId": 1,
     "plot": "Armed with only one word, Tenet, a man fights for the survival of the world in a twilight world of international espionage.",
     "poster": "https://m.media-amazon.com/images/M/MV5BMTU0ZjZlYTUtYzIwMC00ZmQzLWEwZTAtZWFhMWIwYjMxY2I3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
     "rating": "7.3"
